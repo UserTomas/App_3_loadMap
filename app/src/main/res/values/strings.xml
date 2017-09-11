@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_3_loadMap</string>
+    <string name="latLong">Please write latitude and longitude</string>
+    <string name="Lat">Latitude</string>
+    <string name="Long">Longitude</string>
+    <string name="map">Show a Map</string>
+</resources>
